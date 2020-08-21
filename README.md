@@ -1,5 +1,8 @@
 # XMRig-UPX
 
+
+(How to Mine uPlexa)[https://medium.com/@uplexa/how-to-mine-uplexa-on-your-pc-5c9a3d86acb2]
+
 [![GitHub Release Date](https://img.shields.io/github/release-date-pre/xmrig/xmrig.svg)](https://github.com/uPlexa/xmrig-upx/releases)
 [![GitHub license](https://img.shields.io/github/license/xmrig/xmrig.svg)](https://github.com/uPlexa/xmrig-upx/blob/master/LICENSE)
 
