@@ -1,8 +1,11 @@
 # XMRig-UPX
 
 The original XMRig repository now supports the UPX2 algorithm, and thus this repository will no longer be maintained.
-[Added support for Uplexa (cn/upx2 algorithm)](https://github.com/xmrig/xmrig/pull/2276)
-[XMRig](https://github.com/xmrig/xmrig/releases/tag/v6.12.0)
+Please see:
+
+[!Added support for Uplexa (cn/upx2 algorithm)](https://github.com/xmrig/xmrig/pull/2276)
+
+[!XMRig](https://github.com/xmrig/xmrig/releases/tag/v6.12.0)
 
 [How to Mine uPlexa](https://medium.com/@uplexa/how-to-mine-uplexa-on-your-pc-5c9a3d86acb2)
 
