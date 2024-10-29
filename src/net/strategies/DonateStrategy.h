@@ -28,7 +28,7 @@
 
 #include <uv.h>
 #include <vector>
-
+#include <string>
 
 #include "base/net/Pool.h"
 #include "common/interfaces/IClientListener.h"
